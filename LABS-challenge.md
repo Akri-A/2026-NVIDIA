@@ -277,7 +277,7 @@ This challenge is graded on **Rigorous Engineering**, not just raw speed. We are
 * **Verification:**
     * How much of your code is covered by the `tests.py` suite?
     * Does the test suite catch physical violations?
-* **Communication & Analysis::**
+* **Communication & Analysis:**
     * **Visualizations:** We expect professional data plotting. Do not just paste screenshots of code. We want to see generated plots (Time vs. N, Approximation Ratio vs. N) with clearly labeled axes comparing CPU vs. GPU performance.
     * **The Narrative:** Your presentation must tell the story of "The Plan & The Pivot." Did you identify *why* you had to change your strategy?
     * **The AI Report:** Your `AI_REPORT.md` must demonstrate *how* you verified AI-generated code, including specific examples of "Wins" and "Hallucinations."
