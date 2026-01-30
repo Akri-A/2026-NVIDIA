@@ -14,7 +14,7 @@ In modern R&D and this challenge, speed matters, but rigor and coordination matt
 
 In this challenge, you will mimic a real-world R&D pipeline, moving from rapid prototyping to high-performance deployment. You will utilize two distinct platforms, each chosen for a specific phase of your development lifecycle. 
 
-* **Phase 1 (Prototyping): qBraid**
+* **Phase 1 (Prototyping): qBraid** | [Specifications](https://github.com/iQuHACK/2026-NVIDIA/blob/main/LABS-challenge-Phase1.md)
 
     For the "Ramp Up" and initial CPU validation, you will work on Milestones 1 and 2 in [qBraid](https://account-v2.qbraid.com/). qBraid is your "Dev Environment" — a zero-setup, pre-configured cudaq sandbox that allows you to focus entirely on mastering the algorithm and logic without worrying about infrastructure overhead.
 
@@ -23,7 +23,7 @@ In this challenge, you will mimic a real-world R&D pipeline, moving from rapid p
     
     2. **Research & Plan**: Perform due diligence to design a custom quantum strategy and acceleration plan.
 
-* **Phase 2 (Acceleration): Brev**
+* **Phase 2 (Acceleration): Brev** | [Specifications](https://github.com/iQuHACK/2026-NVIDIA/blob/main/LABS-challenge-Phase2.md)
 
     Once your logic is validated, you will "graduate" your code to [Brev](https://brev.nvidia.com/) to complete Milestone 3 and 4. Brev provides on-demand access to a wide variety of NVIDIA GPU architectures (L4s, T4s, A100s, ...). We have provided a pre-configured GPU environment for this environment called a **Launchable**. You will use Brev to test your solution across different hardware configurations and unlock full GPU acceleration.
 
@@ -52,7 +52,7 @@ If any issues occur, try deleting cache in your browser and refreshing the page.
 
 3. Double check that you have `CUDA-Q (v0.13.0)` installed. 
     * If it's **NOT** installed follow Steps 4-6 
-    * Otherwise, go directly to Step 7.
+    * Otherwise, go directly to Step 7
 
 4. Add the CUDA-Q environment by navigating to the ENVS tab in the right sidebar, and click on `+ ADD` 
 
