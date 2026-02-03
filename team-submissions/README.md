@@ -2,7 +2,7 @@
 
 ## NVIDIA CUDA-Q Academic Challenge 2026
 
-**Team Beerantum** | Berlin Quantum Hackathon
+**Team Beerantum** | iQuHack
 
 ---
 
